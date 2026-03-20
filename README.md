@@ -1,9 +1,7 @@
 # 💫 About Me:
-<h1 align="center">Hey 👋, I'm Joydip Dey</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+AI+%2F+ML+Engineer;Competitive+Programmer;Full+Stack+Learner;Always+Learning+New+Things+🚀" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4CC&center=true&vCenter=true&width=700&lines=heyyy👋,+I'm+Joydip+Dey+Omi.+Nice+to+meet+you.😊" />
+</h1>
 
 ---
 
